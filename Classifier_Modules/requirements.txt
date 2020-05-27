@@ -1,0 +1,10 @@
+gensim
+mysql-connector
+sklearn
+tensorflow
+keras
+pika
+networkx
+pandas
+tqdm
+joblib

@@ -1,0 +1,37 @@
+.colored-background{
+    /* background: linear-gradient(135deg, rgba(74,47,246,1) 0%, rgba(101,79,239,1) 42%, rgba(126,108,238,1) 64%, rgba(164,154,224,1) 100%, rgba(255,255,255,1) 100%); */
+   /* background: rgb(15,118,240);
+background: linear-gradient(137deg, rgba(15,118,240,1) 22%, rgba(115,169,235,1) 84%); */
+/* background: rgb(0,84,200);
+background: linear-gradient(135deg, rgba(0,84,200,1) 0%, rgba(34,112,219,1) 47%, rgba(109,156,219,1) 80%, rgba(177,210,255,1) 96%); */
+background: rgb(68,160,141);
+background: linear-gradient(135deg, rgba(68,160,141,1) 0%, rgba(9,54,55,1) 100%);
+color: white;
+    /* box-shadow: inset 0px -11px 8px -13px rgba(0,0,0,0.75); */
+}
+span.navbar-brand, .nav-link {
+    color: white;
+}
+
+.btn-primary, .btn-outline-primary{
+    background-color: #063260;
+    border-color: #063260;
+}
+
+.btn-outline-primary{
+    color: white;
+}
+
+.btn-primary:hover, .btn-outline-primary:hover{
+    background-color: #395f87;
+    border-color: #395f87;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle,
+.btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show>.btn-outline-primary.dropdown-toggle
+{
+    background-color: #062c53;
+    border-color: #062c53;
+}
+
+

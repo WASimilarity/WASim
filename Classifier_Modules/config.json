@@ -1,0 +1,21 @@
+{
+    "mysql_host": "localhost",
+    "mysql_user": "root",
+    "mysql_password": "password",
+    "mysql_database": "webassembly_classifier",
+    "rabbitmq_host": "amqp://localhost",
+    "wabt_wasm2wat_path": "./build/wasm2wat",
+    "asm_binary_converter_path": "./wasmBinaryConverter.out",
+    "asm_wasm_output_path": "./OutputWasms",
+    "wat_output_path": "./OutputWats",
+    "js_download_path": "./JSDownloads",
+    "crawler_module_dump": "./WasmModuleDumps",
+    "crawler_final_module_dump": "./Output",
+    "node_server_upload_folder": "./upload",
+    "node_server_port": 4000,
+    "reconnect_attempts": 5,
+    "reconnect_wait_time": 8
+
+
+    
+}
