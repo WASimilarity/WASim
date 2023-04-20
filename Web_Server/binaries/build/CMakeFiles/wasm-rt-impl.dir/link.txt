@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwasm-rt-impl.a CMakeFiles/wasm-rt-impl.dir/wasm2c/wasm-rt-impl.c.o
+/usr/bin/ranlib libwasm-rt-impl.a

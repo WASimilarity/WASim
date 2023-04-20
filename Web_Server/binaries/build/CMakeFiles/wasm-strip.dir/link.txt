@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/wasm-strip.dir/src/tools/wasm-strip.cc.o -o wasm-strip  libwabt.a 

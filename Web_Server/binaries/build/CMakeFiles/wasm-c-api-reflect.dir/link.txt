@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/wasm-c-api-reflect.dir/third_party/wasm-c-api/example/reflect.c.o -o wasm-c-api-reflect  -Wl,-rpath,/root/wabt/build libwasm.so libwabt.a -pthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/spectest-interp.dir/src/tools/spectest-interp.cc.o -o spectest-interp  libwabt.a -lm 

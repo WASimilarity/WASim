@@ -1,0 +1,682 @@
+[
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/apply-names.cc.o -c /root/wabt/src/apply-names.cc",
+  "file": "/root/wabt/src/apply-names.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/binary-reader-ir.cc.o -c /root/wabt/src/binary-reader-ir.cc",
+  "file": "/root/wabt/src/binary-reader-ir.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/binary-reader-logging.cc.o -c /root/wabt/src/binary-reader-logging.cc",
+  "file": "/root/wabt/src/binary-reader-logging.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/binary-reader.cc.o -c /root/wabt/src/binary-reader.cc",
+  "file": "/root/wabt/src/binary-reader.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/binary-writer-spec.cc.o -c /root/wabt/src/binary-writer-spec.cc",
+  "file": "/root/wabt/src/binary-writer-spec.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/binary-writer.cc.o -c /root/wabt/src/binary-writer.cc",
+  "file": "/root/wabt/src/binary-writer.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/binary.cc.o -c /root/wabt/src/binary.cc",
+  "file": "/root/wabt/src/binary.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/binding-hash.cc.o -c /root/wabt/src/binding-hash.cc",
+  "file": "/root/wabt/src/binding-hash.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/color.cc.o -c /root/wabt/src/color.cc",
+  "file": "/root/wabt/src/color.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/common.cc.o -c /root/wabt/src/common.cc",
+  "file": "/root/wabt/src/common.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/config.cc.o -c /root/wabt/src/config.cc",
+  "file": "/root/wabt/src/config.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/decompiler.cc.o -c /root/wabt/src/decompiler.cc",
+  "file": "/root/wabt/src/decompiler.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/error-formatter.cc.o -c /root/wabt/src/error-formatter.cc",
+  "file": "/root/wabt/src/error-formatter.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/expr-visitor.cc.o -c /root/wabt/src/expr-visitor.cc",
+  "file": "/root/wabt/src/expr-visitor.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/feature.cc.o -c /root/wabt/src/feature.cc",
+  "file": "/root/wabt/src/feature.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/filenames.cc.o -c /root/wabt/src/filenames.cc",
+  "file": "/root/wabt/src/filenames.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/generate-names.cc.o -c /root/wabt/src/generate-names.cc",
+  "file": "/root/wabt/src/generate-names.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/ir-util.cc.o -c /root/wabt/src/ir-util.cc",
+  "file": "/root/wabt/src/ir-util.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/ir.cc.o -c /root/wabt/src/ir.cc",
+  "file": "/root/wabt/src/ir.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/leb128.cc.o -c /root/wabt/src/leb128.cc",
+  "file": "/root/wabt/src/leb128.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/lexer-source-line-finder.cc.o -c /root/wabt/src/lexer-source-line-finder.cc",
+  "file": "/root/wabt/src/lexer-source-line-finder.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/lexer-source.cc.o -c /root/wabt/src/lexer-source.cc",
+  "file": "/root/wabt/src/lexer-source.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/literal.cc.o -c /root/wabt/src/literal.cc",
+  "file": "/root/wabt/src/literal.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -o CMakeFiles/wabt.dir/src/opcode-code-table.c.o -c /root/wabt/src/opcode-code-table.c",
+  "file": "/root/wabt/src/opcode-code-table.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/opcode.cc.o -c /root/wabt/src/opcode.cc",
+  "file": "/root/wabt/src/opcode.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/option-parser.cc.o -c /root/wabt/src/option-parser.cc",
+  "file": "/root/wabt/src/option-parser.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/resolve-names.cc.o -c /root/wabt/src/resolve-names.cc",
+  "file": "/root/wabt/src/resolve-names.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/sha256.cc.o -c /root/wabt/src/sha256.cc",
+  "file": "/root/wabt/src/sha256.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/shared-validator.cc.o -c /root/wabt/src/shared-validator.cc",
+  "file": "/root/wabt/src/shared-validator.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/stream.cc.o -c /root/wabt/src/stream.cc",
+  "file": "/root/wabt/src/stream.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/token.cc.o -c /root/wabt/src/token.cc",
+  "file": "/root/wabt/src/token.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/tracing.cc.o -c /root/wabt/src/tracing.cc",
+  "file": "/root/wabt/src/tracing.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/type-checker.cc.o -c /root/wabt/src/type-checker.cc",
+  "file": "/root/wabt/src/type-checker.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/utf8.cc.o -c /root/wabt/src/utf8.cc",
+  "file": "/root/wabt/src/utf8.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/validator.cc.o -c /root/wabt/src/validator.cc",
+  "file": "/root/wabt/src/validator.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/wast-lexer.cc.o -c /root/wabt/src/wast-lexer.cc",
+  "file": "/root/wabt/src/wast-lexer.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/wast-parser.cc.o -c /root/wabt/src/wast-parser.cc",
+  "file": "/root/wabt/src/wast-parser.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/wat-writer.cc.o -c /root/wabt/src/wat-writer.cc",
+  "file": "/root/wabt/src/wat-writer.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/c-writer.cc.o -c /root/wabt/src/c-writer.cc",
+  "file": "/root/wabt/src/c-writer.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/prebuilt/wasm2c_header_top.cc.o -c /root/wabt/src/prebuilt/wasm2c_header_top.cc",
+  "file": "/root/wabt/src/prebuilt/wasm2c_header_top.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/prebuilt/wasm2c_header_bottom.cc.o -c /root/wabt/src/prebuilt/wasm2c_header_bottom.cc",
+  "file": "/root/wabt/src/prebuilt/wasm2c_header_bottom.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/prebuilt/wasm2c_source_includes.cc.o -c /root/wabt/src/prebuilt/wasm2c_source_includes.cc",
+  "file": "/root/wabt/src/prebuilt/wasm2c_source_includes.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/prebuilt/wasm2c_source_declarations.cc.o -c /root/wabt/src/prebuilt/wasm2c_source_declarations.cc",
+  "file": "/root/wabt/src/prebuilt/wasm2c_source_declarations.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/interp/binary-reader-interp.cc.o -c /root/wabt/src/interp/binary-reader-interp.cc",
+  "file": "/root/wabt/src/interp/binary-reader-interp.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/interp/interp.cc.o -c /root/wabt/src/interp/interp.cc",
+  "file": "/root/wabt/src/interp/interp.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/interp/interp-util.cc.o -c /root/wabt/src/interp/interp-util.cc",
+  "file": "/root/wabt/src/interp/interp-util.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/include -I/root/wabt/build/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt.dir/src/interp/istream.cc.o -c /root/wabt/src/interp/istream.cc",
+  "file": "/root/wabt/src/interp/istream.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/apply-names.cc.o -c /root/wabt/src/apply-names.cc",
+  "file": "/root/wabt/src/apply-names.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/binary-reader-ir.cc.o -c /root/wabt/src/binary-reader-ir.cc",
+  "file": "/root/wabt/src/binary-reader-ir.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/binary-reader-logging.cc.o -c /root/wabt/src/binary-reader-logging.cc",
+  "file": "/root/wabt/src/binary-reader-logging.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/binary-reader.cc.o -c /root/wabt/src/binary-reader.cc",
+  "file": "/root/wabt/src/binary-reader.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/binary-writer-spec.cc.o -c /root/wabt/src/binary-writer-spec.cc",
+  "file": "/root/wabt/src/binary-writer-spec.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/binary-writer.cc.o -c /root/wabt/src/binary-writer.cc",
+  "file": "/root/wabt/src/binary-writer.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/binary.cc.o -c /root/wabt/src/binary.cc",
+  "file": "/root/wabt/src/binary.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/binding-hash.cc.o -c /root/wabt/src/binding-hash.cc",
+  "file": "/root/wabt/src/binding-hash.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/color.cc.o -c /root/wabt/src/color.cc",
+  "file": "/root/wabt/src/color.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/common.cc.o -c /root/wabt/src/common.cc",
+  "file": "/root/wabt/src/common.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/config.cc.o -c /root/wabt/src/config.cc",
+  "file": "/root/wabt/src/config.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/decompiler.cc.o -c /root/wabt/src/decompiler.cc",
+  "file": "/root/wabt/src/decompiler.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/error-formatter.cc.o -c /root/wabt/src/error-formatter.cc",
+  "file": "/root/wabt/src/error-formatter.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/expr-visitor.cc.o -c /root/wabt/src/expr-visitor.cc",
+  "file": "/root/wabt/src/expr-visitor.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/feature.cc.o -c /root/wabt/src/feature.cc",
+  "file": "/root/wabt/src/feature.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/filenames.cc.o -c /root/wabt/src/filenames.cc",
+  "file": "/root/wabt/src/filenames.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/generate-names.cc.o -c /root/wabt/src/generate-names.cc",
+  "file": "/root/wabt/src/generate-names.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/ir-util.cc.o -c /root/wabt/src/ir-util.cc",
+  "file": "/root/wabt/src/ir-util.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/ir.cc.o -c /root/wabt/src/ir.cc",
+  "file": "/root/wabt/src/ir.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/leb128.cc.o -c /root/wabt/src/leb128.cc",
+  "file": "/root/wabt/src/leb128.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/lexer-source-line-finder.cc.o -c /root/wabt/src/lexer-source-line-finder.cc",
+  "file": "/root/wabt/src/lexer-source-line-finder.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/lexer-source.cc.o -c /root/wabt/src/lexer-source.cc",
+  "file": "/root/wabt/src/lexer-source.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/literal.cc.o -c /root/wabt/src/literal.cc",
+  "file": "/root/wabt/src/literal.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include -fPIC   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -o CMakeFiles/wasm.dir/src/opcode-code-table.c.o -c /root/wabt/src/opcode-code-table.c",
+  "file": "/root/wabt/src/opcode-code-table.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/opcode.cc.o -c /root/wabt/src/opcode.cc",
+  "file": "/root/wabt/src/opcode.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/option-parser.cc.o -c /root/wabt/src/option-parser.cc",
+  "file": "/root/wabt/src/option-parser.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/resolve-names.cc.o -c /root/wabt/src/resolve-names.cc",
+  "file": "/root/wabt/src/resolve-names.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/sha256.cc.o -c /root/wabt/src/sha256.cc",
+  "file": "/root/wabt/src/sha256.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/shared-validator.cc.o -c /root/wabt/src/shared-validator.cc",
+  "file": "/root/wabt/src/shared-validator.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/stream.cc.o -c /root/wabt/src/stream.cc",
+  "file": "/root/wabt/src/stream.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/token.cc.o -c /root/wabt/src/token.cc",
+  "file": "/root/wabt/src/token.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/tracing.cc.o -c /root/wabt/src/tracing.cc",
+  "file": "/root/wabt/src/tracing.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/type-checker.cc.o -c /root/wabt/src/type-checker.cc",
+  "file": "/root/wabt/src/type-checker.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/utf8.cc.o -c /root/wabt/src/utf8.cc",
+  "file": "/root/wabt/src/utf8.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/validator.cc.o -c /root/wabt/src/validator.cc",
+  "file": "/root/wabt/src/validator.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/wast-lexer.cc.o -c /root/wabt/src/wast-lexer.cc",
+  "file": "/root/wabt/src/wast-lexer.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/wast-parser.cc.o -c /root/wabt/src/wast-parser.cc",
+  "file": "/root/wabt/src/wast-parser.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/wat-writer.cc.o -c /root/wabt/src/wat-writer.cc",
+  "file": "/root/wabt/src/wat-writer.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/c-writer.cc.o -c /root/wabt/src/c-writer.cc",
+  "file": "/root/wabt/src/c-writer.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/prebuilt/wasm2c_header_top.cc.o -c /root/wabt/src/prebuilt/wasm2c_header_top.cc",
+  "file": "/root/wabt/src/prebuilt/wasm2c_header_top.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/prebuilt/wasm2c_header_bottom.cc.o -c /root/wabt/src/prebuilt/wasm2c_header_bottom.cc",
+  "file": "/root/wabt/src/prebuilt/wasm2c_header_bottom.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/prebuilt/wasm2c_source_includes.cc.o -c /root/wabt/src/prebuilt/wasm2c_source_includes.cc",
+  "file": "/root/wabt/src/prebuilt/wasm2c_source_includes.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/prebuilt/wasm2c_source_declarations.cc.o -c /root/wabt/src/prebuilt/wasm2c_source_declarations.cc",
+  "file": "/root/wabt/src/prebuilt/wasm2c_source_declarations.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/interp/binary-reader-interp.cc.o -c /root/wabt/src/interp/binary-reader-interp.cc",
+  "file": "/root/wabt/src/interp/binary-reader-interp.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/interp/interp.cc.o -c /root/wabt/src/interp/interp.cc",
+  "file": "/root/wabt/src/interp/interp.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/interp/interp-util.cc.o -c /root/wabt/src/interp/interp-util.cc",
+  "file": "/root/wabt/src/interp/interp-util.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/interp/istream.cc.o -c /root/wabt/src/interp/istream.cc",
+  "file": "/root/wabt/src/interp/istream.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-old-style-cast -std=c++17 -o CMakeFiles/wasm.dir/src/interp/interp-wasm-c-api.cc.o -c /root/wabt/src/interp/interp-wasm-c-api.cc",
+  "file": "/root/wabt/src/interp/interp-wasm-c-api.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/include -I/root/wabt/build/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=gnu11 -Wno-pointer-to-int-cast -pthread -o CMakeFiles/wasm-c-api-threads.dir/third_party/wasm-c-api/example/threads.c.o -c /root/wabt/third_party/wasm-c-api/example/threads.c",
+  "file": "/root/wabt/third_party/wasm-c-api/example/threads.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/include -I/root/wabt/build/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=gnu11 -Wno-pointer-to-int-cast -pthread -o CMakeFiles/wasm-c-api-trap.dir/third_party/wasm-c-api/example/trap.c.o -c /root/wabt/third_party/wasm-c-api/example/trap.c",
+  "file": "/root/wabt/third_party/wasm-c-api/example/trap.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/include -I/root/wabt/build/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=gnu11 -Wno-pointer-to-int-cast -pthread -o CMakeFiles/wasm-c-api-table.dir/third_party/wasm-c-api/example/table.c.o -c /root/wabt/third_party/wasm-c-api/example/table.c",
+  "file": "/root/wabt/third_party/wasm-c-api/example/table.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/include -I/root/wabt/build/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=gnu11 -Wno-pointer-to-int-cast -pthread -o CMakeFiles/wasm-c-api-serialize.dir/third_party/wasm-c-api/example/serialize.c.o -c /root/wabt/third_party/wasm-c-api/example/serialize.c",
+  "file": "/root/wabt/third_party/wasm-c-api/example/serialize.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/include -I/root/wabt/build/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=gnu11 -Wno-pointer-to-int-cast -pthread -o CMakeFiles/wasm-c-api-reflect.dir/third_party/wasm-c-api/example/reflect.c.o -c /root/wabt/third_party/wasm-c-api/example/reflect.c",
+  "file": "/root/wabt/third_party/wasm-c-api/example/reflect.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/include -I/root/wabt/build/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=gnu11 -Wno-pointer-to-int-cast -pthread -o CMakeFiles/wasm-c-api-multi.dir/third_party/wasm-c-api/example/multi.c.o -c /root/wabt/third_party/wasm-c-api/example/multi.c",
+  "file": "/root/wabt/third_party/wasm-c-api/example/multi.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/spectest-interp.dir/src/tools/spectest-interp.cc.o -c /root/wabt/src/tools/spectest-interp.cc",
+  "file": "/root/wabt/src/tools/spectest-interp.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wasm-objdump.dir/src/tools/wasm-objdump.cc.o -c /root/wabt/src/tools/wasm-objdump.cc",
+  "file": "/root/wabt/src/tools/wasm-objdump.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wasm-objdump.dir/src/binary-reader-objdump.cc.o -c /root/wabt/src/binary-reader-objdump.cc",
+  "file": "/root/wabt/src/binary-reader-objdump.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -Wno-maybe-uninitialized -std=c++17 -o CMakeFiles/gtest.dir/third_party/gtest/googletest/src/gtest-all.cc.o -c /root/wabt/third_party/gtest/googletest/src/gtest-all.cc",
+  "file": "/root/wabt/third_party/gtest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/gtest_main.dir/third_party/gtest/googletest/src/gtest_main.cc.o -c /root/wabt/third_party/gtest/googletest/src/gtest_main.cc",
+  "file": "/root/wabt/third_party/gtest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt-unittests.dir/src/test-binary-reader.cc.o -c /root/wabt/src/test-binary-reader.cc",
+  "file": "/root/wabt/src/test-binary-reader.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt-unittests.dir/src/test-circular-array.cc.o -c /root/wabt/src/test-circular-array.cc",
+  "file": "/root/wabt/src/test-circular-array.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt-unittests.dir/src/test-interp.cc.o -c /root/wabt/src/test-interp.cc",
+  "file": "/root/wabt/src/test-interp.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt-unittests.dir/src/test-intrusive-list.cc.o -c /root/wabt/src/test-intrusive-list.cc",
+  "file": "/root/wabt/src/test-intrusive-list.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt-unittests.dir/src/test-literal.cc.o -c /root/wabt/src/test-literal.cc",
+  "file": "/root/wabt/src/test-literal.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt-unittests.dir/src/test-option-parser.cc.o -c /root/wabt/src/test-option-parser.cc",
+  "file": "/root/wabt/src/test-option-parser.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt-unittests.dir/src/test-filenames.cc.o -c /root/wabt/src/test-filenames.cc",
+  "file": "/root/wabt/src/test-filenames.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt-unittests.dir/src/test-utf8.cc.o -c /root/wabt/src/test-utf8.cc",
+  "file": "/root/wabt/src/test-utf8.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wabt-unittests.dir/src/test-wast-parser.cc.o -c /root/wabt/src/test-wast-parser.cc",
+  "file": "/root/wabt/src/test-wast-parser.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wasm-decompile.dir/src/tools/wasm-decompile.cc.o -c /root/wabt/src/tools/wasm-decompile.cc",
+  "file": "/root/wabt/src/tools/wasm-decompile.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wasm-interp.dir/src/tools/wasm-interp.cc.o -c /root/wabt/src/tools/wasm-interp.cc",
+  "file": "/root/wabt/src/tools/wasm-interp.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wasm2c.dir/src/tools/wasm2c.cc.o -c /root/wabt/src/tools/wasm2c.cc",
+  "file": "/root/wabt/src/tools/wasm2c.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -o CMakeFiles/wasm-rt-impl.dir/wasm2c/wasm-rt-impl.c.o -c /root/wabt/wasm2c/wasm-rt-impl.c",
+  "file": "/root/wabt/wasm2c/wasm-rt-impl.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/include -I/root/wabt/build/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=gnu11 -Wno-pointer-to-int-cast -pthread -o CMakeFiles/wasm-c-api-hostref.dir/third_party/wasm-c-api/example/hostref.c.o -c /root/wabt/third_party/wasm-c-api/example/hostref.c",
+  "file": "/root/wabt/third_party/wasm-c-api/example/hostref.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/include -I/root/wabt/build/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=gnu11 -Wno-pointer-to-int-cast -pthread -o CMakeFiles/wasm-c-api-hello.dir/third_party/wasm-c-api/example/hello.c.o -c /root/wabt/third_party/wasm-c-api/example/hello.c",
+  "file": "/root/wabt/third_party/wasm-c-api/example/hello.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wat-desugar.dir/src/tools/wat-desugar.cc.o -c /root/wabt/src/tools/wat-desugar.cc",
+  "file": "/root/wabt/src/tools/wat-desugar.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wasm2wat.dir/src/tools/wasm2wat.cc.o -c /root/wabt/src/tools/wasm2wat.cc",
+  "file": "/root/wabt/src/tools/wasm2wat.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/hexfloat_test.dir/src/literal.cc.o -c /root/wabt/src/literal.cc",
+  "file": "/root/wabt/src/literal.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/hexfloat_test.dir/src/test-hexfloat.cc.o -c /root/wabt/src/test-hexfloat.cc",
+  "file": "/root/wabt/src/test-hexfloat.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/include -I/root/wabt/build/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=gnu11 -Wno-pointer-to-int-cast -pthread -o CMakeFiles/wasm-c-api-start.dir/third_party/wasm-c-api/example/start.c.o -c /root/wabt/third_party/wasm-c-api/example/start.c",
+  "file": "/root/wabt/third_party/wasm-c-api/example/start.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wat2wasm.dir/src/tools/wat2wasm.cc.o -c /root/wabt/src/tools/wat2wasm.cc",
+  "file": "/root/wabt/src/tools/wat2wasm.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/include -I/root/wabt/build/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=gnu11 -Wno-pointer-to-int-cast -pthread -o CMakeFiles/wasm-c-api-memory.dir/third_party/wasm-c-api/example/memory.c.o -c /root/wabt/third_party/wasm-c-api/example/memory.c",
+  "file": "/root/wabt/third_party/wasm-c-api/example/memory.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wasm-opcodecnt.dir/src/tools/wasm-opcodecnt.cc.o -c /root/wabt/src/tools/wasm-opcodecnt.cc",
+  "file": "/root/wabt/src/tools/wasm-opcodecnt.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wasm-opcodecnt.dir/src/binary-reader-opcnt.cc.o -c /root/wabt/src/binary-reader-opcnt.cc",
+  "file": "/root/wabt/src/binary-reader-opcnt.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wast2json.dir/src/tools/wast2json.cc.o -c /root/wabt/src/tools/wast2json.cc",
+  "file": "/root/wabt/src/tools/wast2json.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wasm-strip.dir/src/tools/wasm-strip.cc.o -c /root/wabt/src/tools/wasm-strip.cc",
+  "file": "/root/wabt/src/tools/wasm-strip.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/include -I/root/wabt/build/include  -Wold-style-cast -fno-exceptions   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=c++17 -o CMakeFiles/wasm-validate.dir/src/tools/wasm-validate.cc.o -c /root/wabt/src/tools/wasm-validate.cc",
+  "file": "/root/wabt/src/tools/wasm-validate.cc"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/include -I/root/wabt/build/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=gnu11 -Wno-pointer-to-int-cast -pthread -o CMakeFiles/wasm-c-api-callback.dir/third_party/wasm-c-api/example/callback.c.o -c /root/wabt/third_party/wasm-c-api/example/callback.c",
+  "file": "/root/wabt/third_party/wasm-c-api/example/callback.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/include -I/root/wabt/build/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=gnu11 -Wno-pointer-to-int-cast -pthread -o CMakeFiles/wasm-c-api-finalize.dir/third_party/wasm-c-api/example/finalize.c.o -c /root/wabt/third_party/wasm-c-api/example/finalize.c",
+  "file": "/root/wabt/third_party/wasm-c-api/example/finalize.c"
+},
+{
+  "directory": "/root/wabt/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/root/wabt/third_party/picosha2 -I/root/wabt/third_party/gtest/googletest -I/root/wabt/third_party/gtest/googletest/include -I/root/wabt/third_party/wasm-c-api/include -I/root/wabt/include -I/root/wabt/build/include   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -Wuninitialized -Wimplicit-fallthrough -Wno-clobbered -std=gnu11 -Wno-pointer-to-int-cast -pthread -o CMakeFiles/wasm-c-api-global.dir/third_party/wasm-c-api/example/global.c.o -c /root/wabt/third_party/wasm-c-api/example/global.c",
+  "file": "/root/wabt/third_party/wasm-c-api/example/global.c"
+}
+]

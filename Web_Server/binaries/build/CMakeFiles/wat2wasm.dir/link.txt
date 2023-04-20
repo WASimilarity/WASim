@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/wat2wasm.dir/src/tools/wat2wasm.cc.o -o wat2wasm  libwabt.a 

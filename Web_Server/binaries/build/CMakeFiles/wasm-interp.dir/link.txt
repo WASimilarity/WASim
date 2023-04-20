@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/wasm-interp.dir/src/tools/wasm-interp.cc.o -o wasm-interp  libwabt.a -lm 

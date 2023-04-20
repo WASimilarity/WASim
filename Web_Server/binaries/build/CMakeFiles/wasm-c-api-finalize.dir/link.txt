@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/wasm-c-api-finalize.dir/third_party/wasm-c-api/example/finalize.c.o -o wasm-c-api-finalize  -Wl,-rpath,/root/wabt/build libwasm.so libwabt.a -pthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/wasm-opcodecnt.dir/src/tools/wasm-opcodecnt.cc.o CMakeFiles/wasm-opcodecnt.dir/src/binary-reader-opcnt.cc.o -o wasm-opcodecnt  libwabt.a 

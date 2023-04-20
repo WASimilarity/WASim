@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/wasm-c-api-multi.dir/third_party/wasm-c-api/example/multi.c.o -o wasm-c-api-multi  -Wl,-rpath,/root/wabt/build libwasm.so libwabt.a -pthread 

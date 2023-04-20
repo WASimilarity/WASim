@@ -1,4 +1,4 @@
-version: '3'
+version: "3"
 services:
   rabbitmq:
     image: "rabbitmq"
@@ -6,9 +6,9 @@ services:
     networks:
       - network
     ports:
-            - "35172:35172"
-            - "15672:15672"
-            - "5672:5672"
+      - "35172:35172"
+      - "15672:15672"
+      - "5672:5672"
     environment:
       RABBITMQ_DEFAULT_USER: "guest"
       RABBITMQ_DEFAULT_PASS: "guest"
@@ -17,23 +17,25 @@ services:
     restart: always
     hostname: mysql
     networks:
-        - network
+      - network
     environment:
       - "MYSQL_ROOT_PASSWORD=password"
       - "MYSQL_DATABASE=webassembly_classifier"
     volumes:
-    - ./database/schema.sql:/docker-entrypoint-initdb.d/schema.sql:ro
-  web: 
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/schema.sql:ro
+  web:
     image: "wasmclassifier/wasmclassifier:server"
     #build:
     networks:
-        - network
+      - network
     ports:
       - "4000:4000"
     environment:
       - "RABBITMQ_HOST=amqp://rabbitmq?connection_attempts=5&retry_delay=5"
       - "MYSQL_HOST=mysql"
-  model: 
+    volumes:
+      - ./Web_Server/binaries/:/usr/src/app/binaries
+  model:
     image: "wasmclassifier/wasmclassifier:model"
     # build:
     networks:

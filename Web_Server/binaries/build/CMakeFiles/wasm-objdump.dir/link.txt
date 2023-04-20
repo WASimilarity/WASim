@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/wasm-objdump.dir/src/tools/wasm-objdump.cc.o CMakeFiles/wasm-objdump.dir/src/binary-reader-objdump.cc.o -o wasm-objdump  libwabt.a 

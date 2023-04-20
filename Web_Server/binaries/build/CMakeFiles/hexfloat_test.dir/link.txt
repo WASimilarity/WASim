@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/hexfloat_test.dir/src/literal.cc.o CMakeFiles/hexfloat_test.dir/src/test-hexfloat.cc.o -o hexfloat_test  libgtest_main.a libgtest.a -pthread libwabt.a 

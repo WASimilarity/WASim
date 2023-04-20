@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/wasm-decompile.dir/src/tools/wasm-decompile.cc.o -o wasm-decompile  libwabt.a 

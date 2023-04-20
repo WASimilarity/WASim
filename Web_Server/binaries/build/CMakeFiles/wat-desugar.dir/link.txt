@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/wat-desugar.dir/src/tools/wat-desugar.cc.o -o wat-desugar  libwabt.a 
