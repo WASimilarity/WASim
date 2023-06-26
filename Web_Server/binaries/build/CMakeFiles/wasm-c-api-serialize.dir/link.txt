@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/wasm-c-api-serialize.dir/third_party/wasm-c-api/example/serialize.c.o -o wasm-c-api-serialize  -Wl,-rpath,/root/wabt/build libwasm.so libwabt.a -pthread 

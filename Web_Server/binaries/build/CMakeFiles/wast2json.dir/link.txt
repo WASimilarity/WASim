@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wold-style-cast -fno-exceptions CMakeFiles/wast2json.dir/src/tools/wast2json.cc.o -o wast2json  libwabt.a 
