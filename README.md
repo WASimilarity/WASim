@@ -1,6 +1,5 @@
 # WASim
-This repo hosts the code for the WASim submission to the ASE 2020 Demonstrations Track.
-
+This repo hosts the code for the WASim submission to the ASE 2020 Demonstrations Track entitled, "[WasmView: Visual Testing for WebAssembly Applications](https://alan-romano.github.io/WasmView_Visual_Testing_for_WebAssembly_Applications.pdf)." The video demo below shows how the tool is used and how the output is presented.
 ### [Video Demo](https://youtu.be/usfYFIeTy0U)
 
 ## Docker Setup (Easiest)
